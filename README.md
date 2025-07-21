@@ -72,7 +72,7 @@ I'm a passionate Computer Science undergraduate specializing in Artificial Intel
 
 ### 🌐 Connect with Me
 
-- 💼 [LinkedIn – Ammara Iqbal](www.linkedin.com/in/ammara-iqbal-088b32319)
+- 💼 [LinkedIn – www.linkedin.com/in/ammara-iqbal-088b32319
 - 📫 Email: **ammarapgcollege@gmail.com**
 
 ---
