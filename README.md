@@ -7,7 +7,7 @@
 
 ---
 
-### 💬 About Me
+### About Me
 
 I'm a passionate Computer Science graduate specialized in Artificial Intelligence, with a keen interest in Machine Learning and Web Development. My academic journey has equipped me with a strong foundation in programming, machine learning, and software development. I enjoy tackling real-world problems, building impactful projects, and continuously expanding my skills through hands-on learning and collaboration.
 
@@ -72,7 +72,7 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ### Connect with Me
 
--  [LinkedIn – www.linkedin.com/in/ammara-iqbal-088b32319
+-  LinkedIn – www.linkedin.com/in/ammara-iqbal-088b32319
 -  Email: **ammaraiqbal903@gmail.com**
 
 ---
