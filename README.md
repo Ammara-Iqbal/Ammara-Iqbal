@@ -13,9 +13,9 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-### 🧰 My Tech Stack
+### My Tech Stack
 
-#### 💻 Programming Languages  
+#### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -24,7 +24,7 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-#### 🧩 Frameworks & Libraries  
+#### Frameworks & Libraries  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
@@ -33,14 +33,14 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-#### 🗄️ Databases  
+#### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![NeonDB](https://img.shields.io/badge/Neon-00B9FF?style=for-the-badge&logo=neon&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-#### 📊 Data Science & Machine Learning Tools  
+#### Data Science & Machine Learning Tools  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
@@ -49,7 +49,7 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-#### 🛠️ Tools & Platforms  
+#### Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -58,7 +58,7 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammaraiqbal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -70,10 +70,10 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
-- 💼 [LinkedIn – www.linkedin.com/in/ammara-iqbal-088b32319
-- 📫 Email: **ammaraiqbal903@gmail.com**
+-  [LinkedIn – www.linkedin.com/in/ammara-iqbal-088b32319
+-  Email: **ammaraiqbal903@gmail.com**
 
 ---
 
@@ -81,7 +81,7 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 Thank you for stopping by my GitHub profile!  
 I'm always open to collaboration, learning opportunities, and exciting new projects.  
-Feel free to connect — let's build something amazing together! 🚀
+Feel free to connect — let's build something amazing together! 
 
 ---
 
