@@ -17,8 +17,8 @@ I enjoy solving real-world problems by designing innovative and practical soluti
 
 ### Education
 
-Bachelor of Science in Computer Science (BSCS)
-Diploma of Project Management
+- Bachelor of Science in Computer Science (BSCS)
+- Diploma of Project Management
 
 ---
 
