@@ -9,7 +9,16 @@
 
 ### About Me
 
-I'm a passionate Computer Science graduate specialized in Artificial Intelligence, with a keen interest in Machine Learning and Web Development. My academic journey has equipped me with a strong foundation in programming, machine learning, and software development. I enjoy tackling real-world problems, building impactful projects, and continuously expanding my skills through hands-on learning and collaboration.
+I am a passionate Computer Science graduate with a strong interest in Artificial Intelligence, Machine Learning, and Web Development. Throughout my academic journey, I have built a solid foundation in programming, software development, and AI-driven technologies through coursework and hands-on projects.
+
+I enjoy solving real-world problems by designing innovative and practical solutions while continuously expanding my knowledge through self-learning, technical projects, and collaborative experiences. I am committed to continuous growth and aspire to contribute to impactful AI solutions that create meaningful value for society. 
+
+---
+
+### Education
+
+Bachelor of Science in Computer Science (BSCS)
+Diploma of Project Management
 
 ---
 
@@ -66,7 +75,50 @@ I'm a passionate Computer Science graduate specialized in Artificial Intelligenc
 
 ---
 
-### 📌 Pinned Projects
+## Projects
+
+- IOT Based Smart Energy Meter with Intelligent Load Control and Utility Integration
+- Student Performance System
+- Coin Detection System
+- Skin Disease Detection System 
+- Ice Cream Menu Based Project
+- Movie Ticket Booking System (MTBS)
+- Electolytes challenge orange juice vs sports drink
+
+---
+
+### Volunteer Experience
+
+**Co-Founder & Volunteer**
+**Naiki Ka Safr**
+
+As a Co-Founder and active volunteer of *Naiki Ka Safr*, I collaborate with a team of six members to plan and execute community service initiatives aimed at supporting underprivileged communities and promoting social welfare.
+
+**Key Contributions:**
+
+* Planned and coordinated humanitarian projects to support vulnerable communities through charitable initiatives.
+* Led the installation of public water cooler to improve access to clean drinking water in underserved area.
+* Organized the distribution of Qurans and Tasbeehs near the Holy Kaaba as part of a faith-based community outreach initiative.
+* Visited orphanages to spend quality time with children, organizing recreational activities, distributing gifts, and providing financial assistance to support their essential needs.
+* Participated in volunteer activities at Nasheman School, engaging with children with special needs through interactive sessions, games, and gift distribution to encourage inclusion, confidence, and emotional well-being.
+* Worked closely with fellow volunteers to plan, organize, and successfully execute community welfare projects while strengthening leadership, teamwork, communication, and project management skills.
+
+---
+
+### Currently Learning
+
+- Advanced Machine Learning
+- Agentic AI
+- NLP
+- Large Language Models (LLMs)
+- Transformers
+- Rag
+
+---
+
+### Career Goal
+
+My goal is to build impactful AI solutions and pursue a career in Artificial Intelligence, Machine Learning, and Research while contributing to innovative technologies.
 
 ---
 
