@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi there 👋, I'm Ammara Iqbal</h1>
+<h1 align="center">Hi there , I'm Ammara Iqbal</h1>
 
 <p align="center">
-  💻 Computer Science Student | 🤖 AI Enthusiast | 🌍 Learner for Life
+  Computer Science Graduate | AI & Machine Learning Enthusiast | Python Developer | Open to AL/ML Opportunities
 </p>
 
 ---
 
 ### 💬 About Me
 
-I'm a passionate Computer Science undergraduate specializing in Artificial Intelligence, with a keen interest in Machine Learning and Web Development. My academic journey has equipped me with a strong foundation in programming, machine learning, and software development. I enjoy tackling real-world problems, building impactful projects, and continuously expanding my skills through hands-on learning and collaboration.
+I'm a passionate Computer Science graduate specialized in Artificial Intelligence, with a keen interest in Machine Learning and Web Development. My academic journey has equipped me with a strong foundation in programming, machine learning, and software development. I enjoy tackling real-world problems, building impactful projects, and continuously expanding my skills through hands-on learning and collaboration.
 
 ---
 
@@ -73,11 +73,11 @@ I'm a passionate Computer Science undergraduate specializing in Artificial Intel
 ### 🌐 Connect with Me
 
 - 💼 [LinkedIn – www.linkedin.com/in/ammara-iqbal-088b32319
-- 📫 Email: **ammarapgcollege@gmail.com**
+- 📫 Email: **ammaraiqbal903@gmail.com**
 
 ---
 
-### 🙏 Thank You for Visiting!
+### Thank You for Visiting!
 
 Thank you for stopping by my GitHub profile!  
 I'm always open to collaboration, learning opportunities, and exciting new projects.  
